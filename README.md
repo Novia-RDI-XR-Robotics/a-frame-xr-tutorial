@@ -2,6 +2,12 @@
 
 Want to view your 3D models in Virtual or Augmented Reality? This guide will show you how to do it quickly and easily.
 
+## Demonstration
+
+This repository hosts a simple A-Frame demonstration with a moving robotic arm (the `index.html` and `model.glb` files). If you have a Meta Quest 3, you can visit the GitHub Page using this link: [https://Novia-RDI-XR-Robotics.github.io/a-frame-xr-tutorial/](https://Novia-RDI-XR-Robotics.github.io/a-frame-xr-tutorial/)
+
+Click the *VR* button to enter VR.
+
 ## What you'll need
 
 <img src="images/meta_quest_3.png" alt="Meta Quest 3" width="400">
@@ -102,7 +108,7 @@ Then, copy your 3D model file into the same folder. If your model includes textu
 
 ![Robot scene in Blender](images/blender.png)
 
-<i>The animated robot is exported as a .GLB file using Blender.</i>
+<i>The animated robot is exported as a **.glb** file using Blender.</i>
 
 After that, you can start creating the main file for your project. In a text editor, create a new file called `index.html` and put this code in it:
 
