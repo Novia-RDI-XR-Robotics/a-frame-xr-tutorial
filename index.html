@@ -5,11 +5,11 @@
         <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.4/dist/aframe-extras.min.js"></script>
     </head>
     <body>
-        <a-scene>
+        <a-scene
+            xrweb="mode: immersive-ar; requiredFeatures: hit-test;"
+            xr-mode-ui="enabled: true; enterAREnabled: true; XRMode: ar;"
+            embedded>
             <a-entity gltf-model="url(model.glb)" animation-mixer></a-entity>
-            <a-camera position="0 1.6 4"></a-camera>
         </a-scene>
-        <a href="https://sketchfab.com/3d-models/basic-robot-arm-34dad92d89e642048500fac85f4d1ff0"
-            style="position: absolute; left: 10px; bottom: 10px;">Model source</a>
     </body>
 </html>

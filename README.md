@@ -4,7 +4,7 @@ Want to view your 3D models in Virtual or Augmented Reality? This guide will sho
 
 ## Demonstration
 
-This repository hosts a simple A-Frame demonstration with a moving robotic arm (the `index.html` and `model.glb` files). If you have a Meta Quest 3, you can visit the GitHub Page using this link and click the **VR** button to enter Virtual Reality:
+This repository hosts a simple A-Frame demonstration with a moving robotic arm (the `index.html` and `model.glb` files). If you have a Meta Quest 3, you can visit the GitHub Page using this link and click the **Enter VR** button to enter Virtual Reality:
 
 [https://Novia-RDI-XR-Robotics.github.io/a-frame-xr-tutorial/](https://Novia-RDI-XR-Robotics.github.io/a-frame-xr-tutorial/)
 
