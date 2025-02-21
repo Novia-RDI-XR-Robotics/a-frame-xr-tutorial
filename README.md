@@ -22,7 +22,9 @@ To view your scene in VR, you’ll need a way to access your webpage from your h
 
 ### Method 1: Host the webpage on your computer
 
-You can run a small web server on your computer to host the content locally. You’ll need to install some server software (like Node.js or Python’s built-in HTTP server), set up HTTPS security (required for WebXR), and make sure your headset is connected to the same wireless network as your computer. Then you can access your content through your computer’s IP address.
+You can run a small web server on your computer to host the content locally. First, install some server software, such as Node.js or use Python’s built-in HTTP server. Next, set up HTTPS (which is required for WebXR to work). Make sure your headset is on the same wireless network as your computer. After that, you can access your content by typing your computer’s IP address into your headset’s browser.
+
+**Important**: Understand the potential security and network risks of running a self-hosted web server before attempting this approach.
 
 ### Method 2: Use an online service
 
