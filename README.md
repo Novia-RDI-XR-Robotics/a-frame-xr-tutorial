@@ -8,6 +8,8 @@ This repository hosts a simple A-Frame demonstration with a moving robotic arm (
 
 [https://Novia-RDI-XR-Robotics.github.io/a-frame-xr-tutorial/](https://Novia-RDI-XR-Robotics.github.io/a-frame-xr-tutorial/)
 
+The [robot was created by "Blender3D"](https://sketchfab.com/3d-models/basic-robot-arm-34dad92d89e642048500fac85f4d1ff0) under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
 ## What you'll need
 
 <img src="images/meta_quest_3.png" alt="Meta Quest 3" width="400">
