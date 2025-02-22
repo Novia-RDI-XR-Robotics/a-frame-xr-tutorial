@@ -177,8 +177,7 @@ To make the scene work for **Virtual Reality**, add the following code to your `
     <body>
         <a-scene
             xrweb="mode: immersive-ar; requiredFeatures: hit-test;"
-            xr-mode-ui="enabled: true; enterAREnabled: true; XRMode: ar;"
-            embedded>
+            xr-mode-ui="enabled: true; enterAREnabled: true; XRMode: ar;">
             <a-entity gltf-model="url(model.glb)" animation-mixer></a-entity>
         </a-scene>
     </body>
