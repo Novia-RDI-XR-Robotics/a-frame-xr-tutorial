@@ -58,7 +58,7 @@ WebXR is what makes Virtual and Augmented Reality work in web browsers. Instead 
 
 <img src="images/a-frame_logo.png" alt="A-Frame logo" width="200">
 
-A-Frame makes it easy to create VR and AR content for the web. While other 3D tools require complex programming knowledge, A-Frame lets you build 3D scenes using simple HTML tags—similar to how you’d build a basic webpage. It handles all the complicated 3D graphics behind the scenes. It works great on mobile VR headsets and comes with lots of helpful features built in.
+[A-Frame](https://aframe.io/) is a 3D framework and wrapper built on top of [Three.js](https://threejs.org/). A-Frame makes it easy to create VR and AR content for the web. While other 3D tools require complex programming knowledge, A-Frame lets you build 3D scenes using simple HTML tags—similar to how you’d build a basic webpage. It handles all the complicated 3D graphics behind the scenes. It works great on mobile VR headsets and comes with lots of helpful features built in.
 
 ### What is GLTF?
 
